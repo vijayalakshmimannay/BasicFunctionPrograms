@@ -1,4 +1,4 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-FunctionalPrograms.LargestNumber largest = new FunctionalPrograms.LargestNumber();
-largest.LargeNum();
+FunctionalPrograms.LeapYear year = new FunctionalPrograms.LeapYear();
+year.LeapYearProg();
