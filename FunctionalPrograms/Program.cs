@@ -1,4 +1,3 @@
 ﻿// See https://aka.ms/new-console-template for more information
-
-FunctionalPrograms.PowerOfTwo power = new FunctionalPrograms.PowerOfTwo();
-power.Power();
+FunctionalPrograms.QuotientRemainder quotient = new FunctionalPrograms.QuotientRemainder();
+quotient.QuoRem();
