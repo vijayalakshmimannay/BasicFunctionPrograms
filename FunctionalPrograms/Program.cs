@@ -1,4 +1,4 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-FunctionalPrograms.LeapYear year = new FunctionalPrograms.LeapYear();
-year.LeapYearProg();
+FunctionalPrograms.PowerOfTwo power = new FunctionalPrograms.PowerOfTwo();
+power.Power();
